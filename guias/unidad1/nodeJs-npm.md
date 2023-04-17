@@ -8,7 +8,7 @@ Antes de iniciar con React, debemos instalar [Node y npm](https://nodejs.org/es)
 <img src="https://raw.githubusercontent.com/yoavain/create-windowless-app/main/resources/docs/logo.gif" width="40%" alt="Banner"/>
 </p>
 
-Para verificar si ya tienes instalado Noe y npm, abre la terminal y escribe los siguientes comando a la que deberías esperas como respuesta la versión que ya tienes instalada. En el caso de que no obtengas respuesta al ejecutar el comando, entonces, deberás realizar la instalación.
+Para verificar si ya tienes instalado Node y npm, abre la terminal y escribe los siguientes comando a la que deberías esperas como respuesta la versión que ya tienes instalada. En el caso de que no obtengas respuesta al ejecutar el comando, entonces, deberás realizar la instalación.
 
 ```
 node --version
