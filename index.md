@@ -17,5 +17,7 @@
 * Implementación de CSS con componentes
     * [Repaso CSS](guias/unidad2/css.md) 
     * [SASS/LESS vs Styled Components](guias/unidad2/sass-styles-components.md) 
+    * [Extending styles](guias/unidad2/extending-styles.md)
+    * [Polished.js](guias/unidad2/polishedjs.md)
 * Estados y Eventos
     * [Administración de estados](guias/unidad2/estados.md) 
