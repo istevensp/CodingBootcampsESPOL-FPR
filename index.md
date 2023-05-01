@@ -20,4 +20,5 @@
     * [Extending styles](guias/unidad2/extending-styles.md)
     * [Polished.js](guias/unidad2/polishedjs.md)
 * Estados y Eventos
-    * [Administración de estados](guias/unidad2/estados.md) 
+    * [Administración de estados](guias/unidad2/estados.md)
+    * [Manejadores de eventos](guias/unidad2/manejadores-eventos.md) 
