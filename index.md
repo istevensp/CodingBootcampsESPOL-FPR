@@ -22,3 +22,4 @@
 * Estados y Eventos
     * [Administración de estados](guias/unidad2/estados.md)
     * [Manejadores de eventos](guias/unidad2/manejadores-eventos.md) 
+    * [VirtualDOM Reconciliation](guias/unidad2/virtualDom-reconciliation.md)
