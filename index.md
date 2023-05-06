@@ -26,3 +26,4 @@
 ### Unidad 3
 * Ciclo de vida de los componentes
     * [Montaje y desmontaje de componentes](guias/unidad3/montaje-desmontaje-componentes.md)
+    * [Actualización de Props](guias/unidad3/actualizacion-props.md)
