@@ -25,7 +25,7 @@ npm install
 npm start
 ```
 <p align="center">
-<img src="../imagenes/toDo1.png" width="30%" alt="Banner"/>
+<img src="../imagenes/toDo1.png" width="50%" alt="Banner"/>
 </p>
 
 <span style="color: #188eac"> Ejercicio 1: Crear e implementar código para agregar tareas </span>
@@ -79,7 +79,7 @@ Al enviar el formulario, la tarea se agrega a la matriz de tareas pendientes. El
 * Inicie el servidor e ingrese la tarea válida dentro del cuadro de entrada donde puede ver "Agregar una nueva tarea". Verá la salida de la siguiente manera:
 
 <p align="center">
-<img src="../imagenes/toDo2.png" width="30%" alt="Banner"/>
+<img src="../imagenes/toDo2.png" width="40%" alt="Banner"/>
 </p>
 
 <span style="color: #188eac">Ejercicio 2: Eliminar una tarea completada de la lista </span>
@@ -100,13 +100,13 @@ La tarea de eliminación se puede manejar de muchas maneras. Ahora escriba el c�
 ```
 
 <p align="center">
-<img src="../imagenes/toDo3.png" width="30%" alt="Banner"/>
+<img src="../imagenes/toDo3.png" width="50%" alt="Banner"/>
 </p>
 
 * Inicie el servidor, agregue la lista de tareas pendientes y luego intente eliminarla presionando el botón Eliminar. La tarea debe eliminarse de la lista.
 
 <p align="center">
-<img src="../imagenes/toDo4.png" width="30%" alt="Banner"/>
+<img src="../imagenes/toDo4.png" width="40%" alt="Banner"/>
 </p>
 
 <span style="color: #188eac">Ejercicio 3: Agregar casilla de verificación y función de alternancia </span>
@@ -136,7 +136,7 @@ Ahora agregará una casilla de verificación para marcar la finalización de la 
 * Inicie el servidor, agregue la lista de tareas pendientes y luego use la casilla de verificación si la tarea está completa.
 
 <p align="center">
-<img src="../imagenes/toDo5.png" width="30%" alt="Banner"/>
+<img src="../imagenes/toDo5.png" width="40%" alt="Banner"/>
 </p>
 
 <span style="color: #188eac">Ejercicio 4: Edite una tarea agregada y envíela </span>
@@ -185,11 +185,11 @@ function submitEdits(id) {
 * Inicie el servidor, agregue la lista de tareas pendientes y edítela con el botón Editar.
 
 <p align="center">
-<img src="../imagenes/toDo6.png" width="30%" alt="Banner"/>
+<img src="../imagenes/toDo6.png" width="40%" alt="Banner"/>
 </p>
 
 <p align="center">
-<img src="../imagenes/toDo7.png" width="30%" alt="Banner"/>
+<img src="../imagenes/toDo7.png" width="40%" alt="Banner"/>
 </p>
 
 <span style="color: #188eac">Ejercicio 5: Agregar el hook useEffect </span>
