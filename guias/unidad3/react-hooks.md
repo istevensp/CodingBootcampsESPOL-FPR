@@ -28,6 +28,7 @@ c Los hooks permiten que los componentes de funciones tengan acceso al estado y 
 * ¡Y otra gran ventaja de Hooks es que puedes crear tus propios hooks! Esto significa que, en lugar de volver a escribir el código de un componente a otro, puedes escribir un gancho personalizado abstracto y reutilizarlo.
 
 <span style="color: #188eac"> Ventajas de usar hooks </span>
+===========
 
 * * *
 
