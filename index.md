@@ -29,3 +29,8 @@
     * [Actualización de Props](guias/unidad3/actualizacion-props.md)
     * [Métodos de ciclo de vida de class components](guias/unidad3/metodos-ciclo-vida-componentes.md)
     * [React Hooks](guias/unidad3/react-hooks.md)
+    * [Hands on exercise - Componentes](guias/unidad3/exercise-componentes.md)
+
+### Recursos
+
+* [Práctica de componentes](guias/unidad3/todo_list.rar)
