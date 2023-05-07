@@ -29,8 +29,6 @@ c Los hooks permiten que los componentes de funciones tengan acceso al estado y 
 
 <span style="color: #188eac"> Ventajas de usar hooks </span>
 
-===========
-
 * * *
 
 *	Legible
