@@ -27,3 +27,4 @@
 * Ciclo de vida de los componentes
     * [Montaje y desmontaje de componentes](guias/unidad3/montaje-desmontaje-componentes.md)
     * [Actualización de Props](guias/unidad3/actualizacion-props.md)
+    * [Métodos de ciclo de vida de class components](guias/unidad3/metodos-ciclo-vida-componentes.md)
