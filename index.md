@@ -30,6 +30,8 @@
     * [Métodos de ciclo de vida de class components](guias/unidad3/metodos-ciclo-vida-componentes.md)
     * [React Hooks](guias/unidad3/react-hooks.md)
     * [Hands on exercise - Componentes](guias/unidad3/exercise-componentes.md)
+* Enrutamiento con React Router
+    * [Introducción](guias/unidad3/introduccion-react-router.md)
 
 ### Recursos
 
