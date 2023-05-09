@@ -32,6 +32,7 @@
     * [Hands on exercise - Componentes](guias/unidad3/exercise-componentes.md)
 * Enrutamiento con React Router
     * [Introducción](guias/unidad3/introduccion-react-router.md)
+    * [Enrutamiento básico](guias/unidad3/enrutamiento-basico.md)
 
 ### Recursos
 
