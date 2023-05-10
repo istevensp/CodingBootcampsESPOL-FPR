@@ -1,7 +1,6 @@
 ## Frontend Programming - React
 
 ## Guías
-
 ### Unidad 1
 * [Introducción a React](guias/unidad1/introduccion-react.md) 
     * [NodeJS y NPM](guias/unidad1/nodeJs-npm.md)
@@ -33,7 +32,8 @@
 * Enrutamiento con React Router
     * [Introducción](guias/unidad3/introduccion-react-router.md)
     * [Enrutamiento básico](guias/unidad3/enrutamiento-basico.md)
-
+    * [Uso de Router, Route y Link](guias/unidad3/router-route-link.md)
+    * [Redireccionamiento](guias/unidad3/redireccionamiento.md)
+    * [Parámetros de rutas](guias/unidad3/parametros-rutas.md)
 ### Recursos
-
 * [Práctica de componentes](guias/unidad3/todo_list.rar)
