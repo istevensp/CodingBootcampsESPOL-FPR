@@ -35,5 +35,13 @@
     * [Uso de Router, Route y Link](guias/unidad3/router-route-link.md)
     * [Redireccionamiento](guias/unidad3/redireccionamiento.md)
     * [Parámetros de rutas](guias/unidad3/parametros-rutas.md)
+### Unidad 4
+* Arquitectura Redux
+    * [Introducción a Flux y Redux](guias/unidad4/flux-redux.md)
+    * [Reducers & Pure functions](guias/unidad4/reducers-pures-functions.md)
+    * [Vistas y Acciones](guias/unidad4/vistas-acciones.md)
+    * [Uso de middleware](guias/unidad4/uso-middleware.md)
+    * [Hands on exercise - Redux](guias/unidad4/exercise-Redux.md)
 ### Recursos
 * [Práctica de componentes](guias/unidad3/todo_list.rar)
+* [Práctica de Redux](guias/unidad4/react-redux-master.rar)
