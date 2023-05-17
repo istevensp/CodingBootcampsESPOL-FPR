@@ -42,6 +42,12 @@
     * [Vistas y Acciones](guias/unidad4/vistas-acciones.md)
     * [Uso de middleware](guias/unidad4/uso-middleware.md)
     * [Hands on exercise - Redux](guias/unidad4/exercise-Redux.md)
+* Pruebas unitarias con JEST
+    * [Herramientas para pruebas unitarias](guias/unidad4/herramientas-pruebas.md)
+    * [Características de JEST](guias/unidad4/jest.md)
+    * [Instalación y Configuración](guias/unidad4/instalacion-configuracionJest.md)
+    * [Pruebas asíncronas](guias/unidad4/pruebas-asincronas.md)
+    * [Mock](guias/unidad4/mock.md)
 ### Recursos
 * [Práctica de componentes](guias/unidad3/todo_list.rar)
 * [Práctica de Redux](guias/unidad4/react-redux-master.rar)
